@@ -111,7 +111,7 @@ I'm a passionate software engineer from India with 8+ years of experience buildi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan607&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan607\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan607&layout=compact&theme=github_dark)
 
 ---
 
