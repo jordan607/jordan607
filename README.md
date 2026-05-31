@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Engineer;Angular+Developer;Power+BI+Enthusiast;Android+Developer;AI+Explorer&center=true&width=700&height=50">
 </p>
-![](https://komarev.com/ghpvc/?username=jordan607&color=blue)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jordan607)](https://git.io/streak-stats)
 
 
 # Hi 👋, I'm Vishal
@@ -66,7 +64,6 @@ I'm a passionate software engineer from India with 8+ years of experience buildi
 
 ### Mobile
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 
 ---
