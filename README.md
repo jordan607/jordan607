@@ -113,6 +113,14 @@ I'm a passionate software engineer from India with 8+ years of experience buildi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan607&layout=compact&theme=github_dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=jordan607&label=Profile%20Views&color=0e75b6&style=flat)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jordan607&theme=dark)](https://git.io/streak-stats)
+
+[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jordan607&theme=github-compact)](https://github.com/YOUR_GITHUB_USERNAME)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jordan607&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🎯 Fun Facts
