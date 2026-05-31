@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Engineer;Angular+Developer;Power+BI+Enthusiast;Android+Developer;AI+Explorer&center=true&width=700&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Engineer;Angular+Developer;Power+BI+Enthusiast;Aws+Developer;AI+Explorer&center=true&width=700&height=50">
 </p>
 
 
@@ -25,7 +25,7 @@ I'm a passionate software engineer from India with 8+ years of experience buildi
 * ☁️ Building scalable Microservices using Spring Boot
 * 🔐 Interested in Authentication, Authorization, JWT, OAuth2 & SSO
 * 📊 Experienced with Power BI, Reporting & Data Analytics
-* 📱 Learning Native Android Development with Kotlin
+* 📱 Learning Development with Kotlin
 * 🤖 Exploring AI Agents, MCP Servers and Developer Automation
 * 🎯 Always building side projects and learning new technologies
 
@@ -103,7 +103,6 @@ I'm a passionate software engineer from India with 8+ years of experience buildi
 * AI Agents
 * Advanced System Design
 * Kubernetes
-* Android Architecture Components
 
 ---
 
