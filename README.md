@@ -12,8 +12,6 @@ I'm a passionate software engineer from India with 8+ years of experience buildi
 🚀 Currently exploring:
 
 * AI Engineering & MCP Servers
-* Development with Kotlin
-* Spring Cloud Microservices
 * System Design & Scalability
 * Developer Productivity Tools
 
@@ -44,13 +42,11 @@ I'm a passionate software engineer from India with 8+ years of experience buildi
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Databases
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -97,30 +93,6 @@ I'm a passionate software engineer from India with 8+ years of experience buildi
 
 ---
 
-## 🌱 Currently Learning
-
-* MCP Architecture
-* AI Agents
-* Advanced System Design
-* Kubernetes
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan607&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan607&layout=compact&theme=github_dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jordan607&label=Profile%20Views&color=0e75b6&style=flat)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jordan607&theme=dark)](https://git.io/streak-stats)
-
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jordan607&theme=github-compact)](https://github.com/YOUR_GITHUB_USERNAME)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jordan607&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🎯 Fun Facts
 
